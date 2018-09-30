@@ -31,7 +31,7 @@ class App extends Component {
     }
     this.handleLeftClick = this.handleLeftClick.bind(this);
     this.handleRightClick = this.handleRightClick.bind(this);
-    this.handleDebug = this.handleDebug.bind(this);
+//    this.handleDebug = this.handleDebug.bind(this);
 
   }
   handleLeftClick({ target }) {
