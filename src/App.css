@@ -1,0 +1,19 @@
+
+.imageMain {
+  display: flex;
+  flex-wrap:nowrap;
+ /* border:1px solid;*/
+  /*border-width:1px 0 0 1px;*/
+  /*max-width: 100ox;
+  min-width:100px;*/
+}
+
+.imageMain img {
+  width:10em;
+  height:10em;
+}
+.imageMain div {
+  border:1px solid;
+  padding:20px;
+  background-color: bisque;
+}
