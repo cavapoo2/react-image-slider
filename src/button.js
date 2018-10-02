@@ -8,6 +8,6 @@ const Button = ({text,handler}) => {
 
 Button.protoType = {
     text: PropTypes.string,
-    handdler:PropTypes.func,
+    handler:PropTypes.func,
 }
 export default Button;
